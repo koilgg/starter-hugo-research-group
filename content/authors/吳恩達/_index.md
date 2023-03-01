@@ -1,7 +1,7 @@
 ---
 title: 叶子
 role: Professor of Artificial Intelligence
-avatar_filename: 江鑫楠_福建选调.png
+avatar_filename: 江鑫楠_选调照片.jpg
 organizations:
   - name: Stanford University
     url: ""
