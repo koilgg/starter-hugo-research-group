@@ -5,7 +5,7 @@ avatar_filename: avatar.png
 organizations:
   - name: Stanford University
     url: ""
-superuser: false
+superuser: true
 authors:
   - 吳恩達
 bio: My research interests include distributed robotics, mobile computing and
