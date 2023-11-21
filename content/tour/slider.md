@@ -30,7 +30,7 @@ content:
         position: center
         color: '#555'
         brightness: 0.7
-        media: 1.png
+        media: 2.jpg
     - title: World-Class Semiconductor Lab
       content: 'Just opened last month!'
       align: right
