@@ -1,6 +1,5 @@
 ---
-title: Latest News
-
+title: 阿尔法爷爷的🧙魔法小屋
 # Listing view
 view: compact
 
