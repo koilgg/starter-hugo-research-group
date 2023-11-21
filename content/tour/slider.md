@@ -31,7 +31,7 @@ content:
         color: '#555'
         brightness: 0.7
         media: 2.jpg
-        {{< audio src="markvard.mp3" >}}
+        {{< audio src="qt.mp3" >}}
     - title: World-Class Semiconductor Lab
       content: 'Just opened last month!'
       align: right
