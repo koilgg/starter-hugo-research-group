@@ -8,17 +8,17 @@ main:
     url: tour
     weight: 20
   - name: 魔法小屋
-    url: post
+    url: house
     weight: 40
   - name: 魔法校友
     url: people
     weight: 40
   - name: 惊喜驿站
-    url: event
+    url: surprise
     weight: 40
   # - name: Publications
   #   url: publication
     # weight: 50
   - name: 愿望清单
-    url: contact
+    url: menu
     weight: 60
