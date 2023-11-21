@@ -10,7 +10,7 @@ headless: true
 # Order that this section appears on the page.
 weight: 20
 
-title: ''
+title: 阿尔法爷爷的🦄童话小镇
 subtitle: ''
 
 content:
@@ -25,6 +25,12 @@ content:
   # To show all items, set `tag` to "*".
   # To filter by a specific tag, set `tag` to an existing tag name.
   # To remove the toolbar, delete the entire `filter_button` block.
+
+
+  唵嘛呢叭咪吽，欢迎来到阿尔法爷爷的童话小镇，小伙伴们，快和我们的小寿星打声招呼吧！
+
+
+
   filter_button:
     - name: All
       tag: '*'
