@@ -7,42 +7,39 @@ organizations:
     url: ""
 superuser: true
 authors:
-  - 吳恩達
-bio: My research interests include distributed robotics, mobile computing and
-  programmable matter.
+  - 叶子
+bio: 大家好，我是练习时长两年半的见习魔法师，会唱、跳...啊不，应该是会正蹬、鞭腿、左刺拳！
 interests:
-  - Artificial Intelligence
-  - Computational Linguistics
-  - Information Retrieval
+  - 猪蛋挞
+  - 小猪佩奇
+  - 汤姆布利布
 social:
   - icon: envelope
     icon_pack: fas
-    link: mailto:test@example.org
+    link: https://nianbroken.github.io/Firework_Simulator/
   - icon: twitter
     icon_pack: fab
-    link: https://twitter.com/GeorgeCushen
+    link: https://nianbroken.github.io/Firework_Simulator/
   - icon: google-scholar
     icon_pack: ai
-    link: https://scholar.google.co.uk/citations?user=sIwtMXoAAAAJ
+    link: https://nianbroken.github.io/Firework_Simulator/
   - icon: github
     icon_pack: fab
-    link: https://github.com/gcushen
+    link: https://nianbroken.github.io/Firework_Simulator/
 education:
   courses:
-    - course: PhD in Artificial Intelligence
+    - course: 怎样打松果弹抖闪电鞭
       institution: Stanford University
-      year: 2012
-    - course: MEng in Artificial Intelligence
+      year: 2035
+    - course: 论如何用福建方言念魔法咒语
       institution: Massachusetts Institute of Technology
-      year: 2009
-    - course: BSc in Artificial Intelligence
+      year: 2038
+    - course: 母猪的产后护理
       institution: Massachusetts Institute of Technology
-      year: 2008
+      year: 2040
 email: ""
 user_groups:
-  - Researchers
-  - Visitors
+  - 魔法学堂
+  - 小猪蛋挞
 ---
- is a professor of artificial intelligence at the Stanford AI Lab. His research interests include distributed robotics, mobile computing and programmable matter. He leads the Robotic Neurobiology group, which develops self-reconfiguring robots, systems of self-organizing robots, and mobile sensor networks.
-
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed neque elit, tristique placerat feugiat ac, facilisis vitae arcu. Proin eget egestas augue. Praesent ut sem nec arcu pellentesque aliquet. Duis dapibus diam vel metus tempus vulputate.
+我是阿尔法老爷爷魔法学堂的一名魔法师，下面我要表演一个魔法了：妈咪妈咪哄！怎么样，你看不见我了吧~
