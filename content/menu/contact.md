@@ -21,7 +21,7 @@ content:
   coordinates:
     latitude: '51.3'
     longitude: '0'
-  directions: on your foot
+  directions: on your feet
   office_hours: Anytime
   appointment_url: 'https://nianbroken.github.io/Firework_Simulator/'
   #contact_links:
