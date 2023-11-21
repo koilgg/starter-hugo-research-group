@@ -30,7 +30,8 @@ content:
         position: center
         color: '#555'
         brightness: 0.7
-        video: 1.mp4
+        video: 
+          filename:1.mp4
         
     - title: World-Class Semiconductor Lab
       content: 'Just opened last month!'
