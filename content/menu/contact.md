@@ -15,7 +15,7 @@ subtitle:
 content:
   # Contact (edit or remove options as required)
 
-  email: alphagradepa@magic.org
+  email: alphagrandpa@magic.org
   # email: 819408235@qq.com
   phone: 1122
   coordinates:
