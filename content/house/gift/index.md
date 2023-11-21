@@ -5,7 +5,6 @@ image:
   focal_point: 'top'
 type: widget_page
 ---
-星，
 唵嘛呢叭咪吽，欢迎来到阿尔法爷爷的童话小镇，小伙伴们，快和我们的小寿星打声招呼吧！
 
 <!--more-->
