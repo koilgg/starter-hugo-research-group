@@ -40,7 +40,7 @@ content:
         brightness: 0.5
         media: welcome.jpg
       link:
-        icon: burger-soda
+        icon: receipt
         icon_pack: fas
         text: Join Us
         url: ../contact/
