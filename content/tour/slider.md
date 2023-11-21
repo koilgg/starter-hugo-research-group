@@ -43,5 +43,5 @@ content:
         icon: receipt
         icon_pack: fas
         text: 愿望清单
-        url: ../contact/
+        url: ../menu/
 ---
