@@ -1,6 +1,6 @@
 ---
-title: 叶子
-role: 阿尔法老爷爷魔法屋的见习魔法师🎩
+title: 椰子🥥
+role: 见习猪蛋挞🎩
 avatar_filename: avatar.png
 organizations:
   - name: Stanford University
