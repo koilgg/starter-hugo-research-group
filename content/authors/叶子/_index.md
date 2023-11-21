@@ -42,4 +42,6 @@ user_groups:
   - 魔法学堂
   - 小猪蛋挞
 ---
-我是阿尔法老爷爷魔法学堂的一名魔法师，下面我要表演一个魔法了：妈咪妈咪哄！怎么样，你看不见我了吧~
+我是阿尔法老爷爷魔法学堂的一名魔法师，下面我要表演一个魔法了：妈咪妈咪哄！💫
+
+{{% cta cta_link="https://nianbroken.github.io/Firework_Simulator/" cta_text="点击查看魔法效果 →" %}}
