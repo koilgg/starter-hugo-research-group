@@ -30,8 +30,8 @@ content:
         position: center
         color: '#555'
         brightness: 0.7
-        media: 2.jpg
-        {{< audio src="qt.mp3" >}}
+        video: 1.mp4
+        
     - title: World-Class Semiconductor Lab
       content: 'Just opened last month!'
       align: right
