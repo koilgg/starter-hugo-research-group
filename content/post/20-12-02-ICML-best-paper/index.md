@@ -4,9 +4,6 @@ date: 2020-12-02
 image:
   focal_point: 'top'
 type: widget_page
-
-# Homepage is headless, other widget pages are not.
-headless: true
 ---
 星，
 唵嘛呢叭咪吽，欢迎来到阿尔法爷爷的童话小镇，小伙伴们，快和我们的小寿星打声招呼吧！
