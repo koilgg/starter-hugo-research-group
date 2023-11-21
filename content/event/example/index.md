@@ -1,14 +1,17 @@
 ---
-title: 盲盒惊喜小屋
+title: 盲盒惊喜小屋🎊
 
-event: 尘封的星光
-event_url: https://example.org
+提示: 尘封的星光
+event_url: https://science.nasa.gov/dwarf-planets/pluto/moons/charon/
 
 
-summary: 生日礼物🎁
-abstract: '当当当当，这是今天的小心意喔，不过，想要获得它，还需要动一些些小脑筋，略略略🥳'
+叮咚: 生日礼物🎁
+当当当当: '这是今天的小心意喔，不过，想要获得它，还需要动一些些小脑筋，略略略🥳'
 ---
+所有的星星失去了轨迹，宇宙下起了陨石雨，从卡戎爱上冥王星的那刻起。银河系最遥远的距离有一颗行星，感受不到日光的温暖，蜷缩在角落里。宇宙大爆炸诞生之后，从陨石碎片慢慢成长为行星，流入人潮，每天千篇一律，围绕最炽热的太阳旋转。可他离太阳很远，几乎没有阳光能穿越59亿公里的旅途给他温暖。冥王星大气下永恒的冰层，温度低到凝固整个宇宙的寂静。日复一日，年复一年，是未曾言说的孤单。
 
 
-{{< video src="https://www.bilibili.com/video/BV16K4y1h7eq/?share_source=copy_web&vd_source=4d30c31e3f48aeaebe403bb7aef52fcd" controls="yes" >}}
+
+
+{{< video src="star.mp4" controls="yes" >}}
 

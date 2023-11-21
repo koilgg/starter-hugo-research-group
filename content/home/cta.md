@@ -8,5 +8,4 @@ design:
   columns: '1'
 ---
 
-{{% cta cta_link="./people/" cta_text="Meet the team →" %}}
-{{< audio src="qt.mp3" autoplay="autoplay" controls="yes">}}
+{{% cta cta_link="./people/" cta_text="看看魔法学堂的同学吧 →" %}}
