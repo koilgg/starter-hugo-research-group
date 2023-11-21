@@ -23,16 +23,16 @@ content:
         color: '#666'
         brightness: 0.7
         media: 1.jpg
-    - title: Lunch & Learn ☕️
-      content: 'Share your knowledge with the group and explore exciting new topics together!'
+    - title: 饿了吗，来份生日糕点吧 ☕️
+      content: 'Yummy Yummy~~~'
       align: left
       background:
         position: center
         color: '#555'
         brightness: 0.7
         media: 2.jpg
-    - title: World-Class Semiconductor Lab
-      content: 'Just opened last month!'
+    - title: 可以写下你的生日清单喔
+      content: '我是叮当猫，喵~'
       align: right
       background:
         position: center
@@ -42,6 +42,6 @@ content:
       link:
         icon: receipt
         icon_pack: fas
-        text: Join Us
+        text: 愿望清单
         url: ../contact/
 ---

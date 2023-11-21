@@ -4,21 +4,21 @@
 #   The weight parameter defines the order that the links will appear in.
 
 main:
-  - name: Tour
+  - name: 欢迎
     url: tour
-    weight: 10
-  - name: News
-    url: post
     weight: 20
-  - name: People
+  - name: 魔法小屋
+    url: post
+    weight: 40
+  - name: 魔法校友
     url: people
-    weight: 30
-  - name: Events
+    weight: 40
+  - name: 惊喜驿站
     url: event
     weight: 40
-  - name: Publications
-    url: publication
-    weight: 50
-  - name: Contact
+  # - name: Publications
+  #   url: publication
+    # weight: 50
+  - name: 愿望清单
     url: contact
     weight: 60
