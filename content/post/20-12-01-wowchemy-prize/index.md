@@ -1,5 +1,5 @@
 ---
-title: Richard Hendricks Wins First Place in the Wowchemy
+title: 阿尔法爷爷的🍖实验室
 date: 2020-12-01
 ---
 
