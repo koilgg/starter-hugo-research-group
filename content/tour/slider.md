@@ -40,7 +40,7 @@ content:
         brightness: 0.5
         media: welcome.jpg
       link:
-        icon: bowl-rice
+        icon: burger-soda
         icon_pack: fas
         text: Join Us
         url: ../contact/
