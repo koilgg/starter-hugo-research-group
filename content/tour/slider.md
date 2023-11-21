@@ -15,8 +15,8 @@ design:
 
 content:
   slides:
-    - title: 👋 Welcome to the group
-      content: Take a look at what we're working on...
+    - title: 👋 欢迎来到阿尔法老爷爷的魔法小屋
+      content: 玛卡巴卡 玛卡巴卡...
       align: center
       background:
         position: right
