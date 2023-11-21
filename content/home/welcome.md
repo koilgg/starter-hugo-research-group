@@ -21,4 +21,4 @@ design:
 
 欢迎来到 **👋阿尔法老爷爷🎅的魔法小屋**，在这里，你可以感受到神奇的魔力，巴啦啦小魔仙，全身变，嘀嘟！是不是很神奇！！！魔力助你长大了一岁！Happy birthday!!!🐣
 
-{{< audio src="birth.mp3" autoplay="autoplay" controls="yes">}}
+{{< audio src="birth.mp3" controls autoplay="autoplay">}}
