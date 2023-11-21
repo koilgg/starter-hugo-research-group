@@ -27,10 +27,10 @@ content:
       content: 'Share your knowledge with the group and explore exciting new topics together!'
       align: left
       background:
-        video: 
-          filename:1.mp4
-          flip: false
-        
+        position: center
+        color: '#555'
+        brightness: 0.7
+        media: 2.jpg
     - title: World-Class Semiconductor Lab
       content: 'Just opened last month!'
       align: right
