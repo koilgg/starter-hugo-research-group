@@ -3,7 +3,7 @@ title: 阿尔法爷爷的🍖实验室
 date: 2020-12-01
 ---
 
-Congratulations to Richard Hendricks for winning first place in the Wowchemy Prize.
+小朋友，听说你对西塔老奶奶的厨艺印象深刻唷，阿尔法老爷爷也特意为你准备了烤肉界的“满汉全席”，快来品尝吧！.
 
 <!--more-->
 
