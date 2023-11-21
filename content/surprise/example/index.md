@@ -13,5 +13,5 @@ event_url: https://science.nasa.gov/dwarf-planets/pluto/moons/charon/
 
 
 
-{{< video src="star.mp4" controls="yes" >}}
+{{< video src="star.mp4" controls autoplay="autoplay" >}}
 
