@@ -1,5 +1,5 @@
 ---
-title: Jian Yang and Monica Hall Win the Best Paper Award at Wowchemy 2020
+title: 阿尔法爷爷的开心小屋
 date: 2020-12-02
 image:
   focal_point: 'top'
