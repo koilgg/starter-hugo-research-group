@@ -1,9 +1,9 @@
 ---
 title: 椰子🥥
 role: 见习猪蛋挞🎩
-avatar_filename: avatar.png
+avatar_filename: avatar.gif
 organizations:
-  - name: Stanford University
+  - name: 朱熹学堂
     url: ""
 superuser: true
 authors:
@@ -29,16 +29,16 @@ social:
 education:
   courses:
     - course: 怎样打松果弹抖闪电鞭
-      institution: Stanford University
+      institution: 朱熹学堂
       year: 2035
     - course: 论如何用福建方言念魔法咒语
-      institution: Massachusetts Institute of Technology
+      institution: 朱熹学堂
       year: 2038
     - course: 母猪的产后护理
-      institution: Massachusetts Institute of Technology
+      institution: 朱熹学堂
       year: 2040
 email: ""
 user_groups:
-  - 魔法学堂
+  - 导游团队
 ---
-我是阿尔法老爷爷魔法学堂的一名魔法师，下面我要表演一个魔法了：妈咪妈咪哄！怎么样，你看不见我了吧~
+烟一支一支一支地点，酒一杯一杯一杯地干，请你要体谅我，我酒量不好别给我挖从杠

@@ -18,7 +18,7 @@ subtitle:
 design:
   columns: '1'
   background:
-    image: 4.jpg
+    image: 5.jpg
     image_darken: 0
     image_parallax: false
     image_position: center
